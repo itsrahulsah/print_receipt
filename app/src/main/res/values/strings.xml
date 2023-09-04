@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Receipt Printer</string>
+    <string name="convert_to_text">convert to text</string>
+    <string name="print">Print</string>
+    <string name="expand_all">Expand all</string>
+    <string name="open_camera">Open camera</string>
+    <string name="open_gallery">open gallery</string>
+    <string name="custom_text">custom text</string>
+    <string name="printable_image">printable image</string>
+    <string name="input_text_here">Input text here</string>
+    <string name="invoice_no">Invoice No.</string>
+    <string name="date_and_time">Date and time  : %s</string>
+    <string name="quantity">Quantity</string>
+    <string name="price">Price</string>
+    <string name="product_description">Product description</string>
+    <string name="to_receiver_address">To (Receiver Address)</string>
+    <string name="select_device">Select Device</string>
+</resources>
